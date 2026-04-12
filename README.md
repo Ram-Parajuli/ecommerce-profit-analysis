@@ -17,10 +17,9 @@ Analyze Q1 2026 transaction data to:
 # Key Findings
 
 ### Revenue Analysis
-Total Revenue:** ₹1,991,450
-Total Orders:** 23 (1 cancelled, 1 return)
-Average Order Value:** ₹86,585
-Return Rate:** 4.3% (below industry average)
+Total Revenue:**₹1,991,450**
+Total Orders: 23 (1 cancelled, 1 return)
+Return Rate: 4.3% (below industry average)
 
 Profitability Metrics
 Net Profit: ₹301,210
@@ -38,25 +37,16 @@ Three orders lost ₹52,270 combined due to:
 
 ##  Strategic Recommendations
 
-1. Implement Discount Controls
+# 1. Implement Discount Controls
 Action: Cap maximum discount at 15% for all electronics  
-Impact: Estimated ₹189,600 additional annual profit (63% increase)  
-Implementation: Require manager approval for discounts >12%
+
 
 # 2. Improve Supplier Negotiations
 Action: Reduce COGS from 70% to 65% through better purchasing  
-Impact: ₹100,000+ quarterly profit improvement  
-Implementation:Hire procurement specialist
-
-# 3. Quality Control Enhancement
-Action: Implement pre-acceptance inspection of supplier shipments  
-Impact: Eliminate need for damaged-goods discounting  
-Implementation: Standard operating procedure for all deliveries
 
 # 4. Payment Collection Priority
 Action: Immediate follow-up on ₹225,700 pending payments  
-Impact: Secure 11% of Q1 revenue  
-Timeline: 7-day collection initiative
+
 
 
 ##  Technical Approach
@@ -64,8 +54,6 @@ Timeline: 7-day collection initiative
 ### Tools Used
 - **Microsoft Excel**: Data cleaning, analysis, visualization
 - **Functions**: PROPER(), TRIM(), SUMIF(), IF(), ABS()
-
-## Methodology
 
 ## 1. Data Cleaning
 - Standardized 23 transaction records
@@ -84,7 +72,7 @@ Timeline: 7-day collection initiative
 
 ---
 
-## 📈 Results & Impact
+##  Results & Impact
 
 ### Category Performance
 | Category | Revenue | % of Total |
@@ -113,6 +101,5 @@ Timeline: 7-day collection initiative
 
 ---
 
-## 📂 Repository Structure
 
   
