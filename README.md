@@ -1,6 +1,10 @@
 | Category | Revenue | % of Total |
 |----------|---------|------------|
 | Phones | ₹694,050 | 34.9% |
+
+| Category | Revenue | % of Total|
+| ----------|---------|----------|
+| Hello | Good | Bad|
 # Task:
 **Data Cleaning**
 **Churn Anylss**
